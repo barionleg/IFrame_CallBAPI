@@ -1,6 +1,8 @@
 IFrame
 ===
 
+<iframe src="https://solen.info/solar/old_reports/"></iframe>
+
 ## Description
 
 Embed another HTML document in your web application
