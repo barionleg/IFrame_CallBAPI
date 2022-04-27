@@ -16,8 +16,8 @@ define([
         templateString: widgetTemplate,
 
         name   : "solar db", 	//the attribute to edit
-        height : 10000, //height, 0 = auto
-        width : 1800, //height, 0 = auto
+        height : 100%, //height, 0 = auto
+        width : 100%, //height, 0 = auto
         scrolling : "auto",
         prefix : "",
 
